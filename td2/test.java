@@ -15,6 +15,8 @@ public class test {
             System.out.println(AR.calculevaleur(2023));
             System.out.println(AC.calculevaleur(2023));
             System.out.println(C1.calculevaleur(2023));
+        System.out.println(AR.calculesurface());
+            System.out.println(AC.calculesurface());
 
 
 
