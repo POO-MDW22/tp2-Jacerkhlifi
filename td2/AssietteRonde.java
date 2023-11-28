@@ -7,6 +7,9 @@ public class AssietteRonde extends Assiette{
         public double getrayon(){
         return rayon;
         }
+    public double calculesurface(){
+        return 3.14*getrayon()*getrayon();
+        }
 
 
 
